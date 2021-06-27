@@ -14,18 +14,18 @@
 
 <img src="https://img.shields.io/badge/isuruwa-ABOUT%20TOOL-blueviolet?style=for-the-badge&logo=appveyor">  
 
-## ABOUT TOOL :  <img src="https://img.icons8.com/cute-clipart/64/000000/double-tick.png">
+## ABOUT TOOL :  <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
   
 ## Only a Base of Bsic Whatsapp Bot Redeveloped Using https://github.com/adiwajshing/Baileys & https://github.com/MhankBarBar/termux-wabot Repo s . Add Your Own Commands & Redevelop It . 
   
   
-# Tested On - Termux
+# Tested On - Termux   <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
  
   
 <br>
   
   
-## FIXED  <img src="https://img.icons8.com/cute-clipart/64/000000/double-tick.png">
+## FIXED  <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
   
 👻 Fixed qr code not generating Error .
   
@@ -38,7 +38,7 @@
   
 <br>
   
- ## FEATURES
+ ## FEATURES : <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
   
  ✅ Send Photo with Caption
   
@@ -78,7 +78,7 @@
   ✅ Block List
   
   
-## INSTALLATION [Termux] [linux] :
+## INSTALLATION [Termux] [linux] : <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
   
 * `apt-get update -y`
 * `apt-get upgrade -y`
