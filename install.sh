@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+#REDEVELOPED BY DEVILMASTER
 
 apt-get update
 apt-get upgrade
