@@ -102,6 +102,11 @@
 <img src="https://img.icons8.com/cute-clipart/256/000000/whatsapp.png"/>
   
   
+# SCREENSHOTS : 
+  
+![Screenshot_20210627-181021_Termux_LI](https://user-images.githubusercontent.com/72663288/123545174-63793c80-d774-11eb-889b-61784367515c.jpg)
+
+![Screenshot_20210627-181834_Termux_LI](https://user-images.githubusercontent.com/72663288/123545179-6b38e100-d774-11eb-898c-df1b3897db77.jpg)
 
   
  
