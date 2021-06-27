@@ -85,7 +85,7 @@
 * `apt install nodejs -y`
 * `git clone https://github.com/isuruwa/WA-BOT`
 * `cd WA-BOT`
-* `npm install`
+* `bash install.sh`
 * `npm start`
   
 # Scan The Generated QR CODE & BOOM ... 👻
