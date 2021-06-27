@@ -97,6 +97,8 @@
 # Only basic Commands Included . Redevelop It as a your Own . 
   
   
+<p align="center">
+  
 <img src="https://img.icons8.com/cute-clipart/256/000000/whatsapp.png"/>
   
   
