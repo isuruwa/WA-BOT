@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/ISURUWA-WA--BOT-brightgreen?style=for-the-badge&logo=appveyor">
 <br>
 <p align="center">
-<img src="https://img.icons8.com/cute-clipart/256/000000/whatsapp.png"/>
+<img src="https://www.commbox.io/wp-content/uploads/2020/01/168-1.jpg">
 <p align="center">
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-WA--BOT-blueviolet?style=for-the-badge&logo=appveyor"></a>
 <p align="center">
@@ -96,6 +96,8 @@
   
 # Only basic Commands Included . Redevelop It as a your Own . 
   
+  
+<img src="https://img.icons8.com/cute-clipart/256/000000/whatsapp.png"/>
   
   
 
