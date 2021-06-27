@@ -92,7 +92,7 @@
   
   
   
-# SOURCES - https://github.com/adiwajshing/Baileys , https://github.com/MhankBarBar/termux-wabot
+# SOURCES - https://github.com/adiwajshing/Baileys , https://github.com/MhankBarBar/termux-wabot  , https://github.com/HotarouTakahashi/Termux-Whatsapp-Bot-English
   
 # Only basic Commands Included . Redevelop It as a your Own . 
   
