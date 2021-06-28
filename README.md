@@ -16,7 +16,7 @@
 
 ## ABOUT TOOL :  <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
   
-## Only a Base of Bsic Whatsapp Bot Redeveloped Using https://github.com/adiwajshing/Baileys & https://github.com/MhankBarBar/termux-wabot , https://github.com/HotarouTakahashi/Termux-Whatsapp-Bot-English Repo s . Add Your Own Functions & Redevelop It . 
+## Only a Base of Basic Whatsapp Bot Redeveloped Using https://github.com/adiwajshing/Baileys & https://github.com/MhankBarBar/termux-wabot , https://github.com/HotarouTakahashi/Termux-Whatsapp-Bot-English Repo s . Add Your Own Functions & Redevelop It . 
   
   
 # Tested On - Termux   <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
