@@ -16,6 +16,8 @@
 
 ## ABOUT TOOL :  <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
   
+## I'm Not Adding Any API s like downloaders , because they are unstable . You can Add If you Like
+  
 ## Only a Base of Basic Whatsapp Bot Redeveloped Using https://github.com/adiwajshing/Baileys & https://github.com/MhankBarBar/termux-wabot , https://github.com/HotarouTakahashi/Termux-Whatsapp-Bot-English Repo s . Add Your Own Functions & Redevelop It . 
   
   
@@ -40,6 +42,15 @@
   
  ## FEATURES : <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
   
+ ## ADDED - 
+  
+  ✅open group
+  
+  ✅closegroup
+  
+  ✅convert video to mp3
+  
+  
  ✅ Send Photo with Caption
   
  ✅ Reply A Photo
@@ -58,7 +69,7 @@
   
  ✅ Set Prefix
   
- ✅ Broadcast
+ ✅ Broadcast (bc/gm/gn)
   
   
   ## GROUP
