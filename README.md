@@ -43,13 +43,9 @@
  ## FEATURES : <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
   
  ## ADDED - 
-  
-  ✅open group
-  
-  ✅closegroup
+
   
   ✅convert video to mp3
-  
   
  ✅ Send Photo with Caption
   
@@ -87,6 +83,10 @@
   ✅ promote/demote members
   
   ✅ Block List
+  
+  ✅ open/close group
+  
+  
   
   
 ## INSTALLATION [Termux] [linux] : <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
