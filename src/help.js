@@ -1,31 +1,26 @@
 const help = (prefix) => {
-	return `🤡 HELLO ! 🤡
-	👻 I'm A WHATSAPP BOT REDEVELOPED BY DEVL MASTER 👻
+	return `🤡 HELLO GUYS ! 🤡
+	👻 I'm A BASIC WHATSAPP BOT REDEVELOPED BY DEVL MASTER 👻
 	
-> User Commands <
+❤  > User Commands < ❤
 	
 !sticker -  convert image/gif/video to sticker (reply to image/video)
 
-!toimg -  convert sticker to image (reply to sticker)
+!toimg -  convert sticker/gif to image (reply to sticker)
 
-!info - About BOT
+!tomp3 - Convert a video to mp3
 
-!tts - convert text to audio |  gtts [cc] [text]
+!tts - convert text to audio |  !gtts [cc] [text]
 
 !ocr -  Take the text in the picture
 
 !setprefix - ${prefix}setprefix [text|optional]
 
-!bc - print who are you
-
-!clone - Clone a Target number profile pic to Yours 
-
-!welcome - Activate Group Welcome
-
-!clearall - Delete all chat
+!bc - Broadcast msg (bc/gm/gn)
 
 
-> Group Comands <
+
+💚 > Group Comands < 💚
 
 !add -  add member into group
 
@@ -35,15 +30,27 @@ const help = (prefix) => {
 
 !demote - demote a member
 
+!clone - Clone a Target number profile pic to Yours 
+
 !linkgroup - Get the group link
 
 !listadmins - List Admins in group
+
+!closegc - Close Group
+
+!opengc - Open Group
 
 !leave - Leave the bot from group
 
 !tagall -  Tag All Members
 
 !blocklist - List Of Blocked Numbers
+
+!welcome - Activate Group Welcome
+
+!clearall - Delete all chat
+
+!info - About BOT
 
 
 ____________________________________
