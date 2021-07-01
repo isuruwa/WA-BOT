@@ -398,6 +398,7 @@ async function starts() {
 							sendMess(_.jid, `[ This is Broadcast ]\n\n${body.slice(4)}`)
 						}
 						reply('Broadcast was successful')
+                                                break
 				case 'gn':
 					if (!isOwner) return reply('Good Night Guys !')
 					if (args.length < 1) return reply('.......')
@@ -414,6 +415,7 @@ async function starts() {
 							sendMess(_.jid, `[ This is Broadcast ]\n\n${body.slice(4)}`)
 						}
 						reply('Broadcast was successful')
+                                                break       
                 case 'promote':
 					if (!isGroup) return reply(mess.only.group)
 					if (!isGroupAdmins) return reply(mess.only.admin)
