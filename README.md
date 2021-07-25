@@ -1,4 +1,11 @@
 <img src="https://img.shields.io/badge/ISURUWA-WA--BOT-brightgreen?style=for-the-badge&logo=appveyor">
+
+```
+----- LOGS -----
+
+* Recommand to deploy In Replit
+
+```
 <br>
 <p align="center">
 <img src="https://www.commbox.io/wp-content/uploads/2020/01/168-1.jpg">
